@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jitendratripathi.netlify.app/sitemap.xml
